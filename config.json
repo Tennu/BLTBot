@@ -1,0 +1,15 @@
+{
+    "server": "irc.your-network.net",
+    "password": null,
+    "port": 6667,
+    "nickname": "BLTBot",
+    "username": "blt",
+    "realname": "BLTBot in tennu",
+    "channels": [],
+    "nickserv": "nickserv",
+    "auth-password": null
+    "plugins": ["blt"],
+    "command-trigger": "!",
+    "disable-help": false
+}
+

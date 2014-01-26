@@ -1,0 +1,8 @@
+BLTBot Demo Tennu Bot
+
+This bot listens to one command:  !givemeblt
+
+To start: Edit config.json and then run `npm start`.
+
+Then peruse the source code or look at
+https://tennu.github.io/documentation/getting-started
