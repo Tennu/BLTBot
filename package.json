@@ -1,6 +1,6 @@
 {
   "name": "bltbot",
-  "version": "0.9.0",
+  "version": "2.0.0",
   "description": "BLTBot demo bot for Tennu",
   "main": "index.js",
   "scripts": {
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Tennu/BLTBot/issues"
   },
-  "homepage": "https://github.com/Tennu/BLTBot"
+  "homepage": "https://github.com/Tennu/BLTBot",
+  "dependencies": {
+    "tennu": "*"
+  }
 }
