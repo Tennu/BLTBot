@@ -9,7 +9,7 @@ var BLTPlugin = {
 
             help: {
                 'givemeblt': [
-                    '!givemeblt',
+                    '{{!}}givemeblt',
                     'Gives the requestor a juicy BLT.'
                 ]
             },
